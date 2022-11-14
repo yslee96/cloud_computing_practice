@@ -1,0 +1,9 @@
+Flask==2.2.2
+httplib2==0.14.0
+Jinja2==3.1.2
+jsonpatch==1.22
+jsonpointer==2.0
+jsonschema==3.2.0
+simplejson==3.16.0
+requests==2.28.1
+urllib3==1.26.12
